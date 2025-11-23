@@ -173,16 +173,14 @@ RegiFlow/
 ## 🎨 Screenshots
 
 ### Home Page
-Beautiful hero section with Lottie animations and event listings with search functionality.
+Beautiful hero section with Lottie animations, event listings, and search functionality.
 
-### Event Details
-Detailed event view with capacity tracking and registration status.
+![Home Page](screenshots/home_page.png)
 
 ### Admin Panel
-Comprehensive event management interface with CRUD operations.
+Comprehensive event management interface with CRUD operations and capacity control.
 
-### My Events
-User's registered events with empty state animation.
+![Admin Panel](screenshots/admin_panel.png)
 
 ## 🔐 Security
 
